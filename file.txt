@@ -1,0 +1,2 @@
+GitHub lets me track my code changes.
+Commits are like saving progress in a game.
